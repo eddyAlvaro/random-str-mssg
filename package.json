@@ -1,0 +1,24 @@
+{
+  "name": "random-str-mssg",
+  "version": "1.0.0",
+  "description": "Random String Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eddyAlvaro/random-str-mssg.git"
+  },
+  "keywords": [],
+  "author": "Eddy Arenas <e.alvaro.arenas@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eddyAlvaro/random-str-mssg/issues"
+  },
+  "homepage": "https://github.com/eddyAlvaro/random-str-mssg#readme",
+  "bin": {
+    "random-str-mssg": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
